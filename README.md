@@ -1,6 +1,6 @@
 # SafeNet
 
-![]("https://cdn.discordapp.com/attachments/1010348308587348088/1015399109261279282/unknown.png")
+![](https://cdn.discordapp.com/attachments/1010348308587348088/1015399109261279282/unknown.png)
 
 
 ## Impressions on the Prompt
