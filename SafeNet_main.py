@@ -26,7 +26,7 @@ def preprocess_img(img_path, preprocess_fun, img=None):
 
 @st.cache(allow_output_mutation=True, show_spinner=True)
 def load_model():
-    MODEL = tf.keras.models.load_model('final_model.h5')
+    MODEL = tf.keras.models.load_model('optimized_model.tflite')
     preprocess_function = tf.keras.applications.densenet.preprocess_input
     return MODEL, preprocess_function
 
